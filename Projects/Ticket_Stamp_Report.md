@@ -1,4 +1,4 @@
-#A real-time ticket stamping report application
+# A real-time ticket stamping report application
 
 ## Introduction
 
